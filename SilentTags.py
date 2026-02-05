@@ -5,7 +5,7 @@
     уведомление (собачку @) из списка чатов.
 """
 
-# meta developer: @sxozuo
+# meta developer: @xyecoder
 # meta banner: https://i.imgur.com/7OobOmW.jpeg
 # scope: hikka_only
 # scope: hikka_min 1.2.0
